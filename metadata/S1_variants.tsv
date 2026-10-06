@@ -1,0 +1,9 @@
+Sample	Gene	Genomic_variant	Consequence	Tissue_depth	Tissue_VAF	Blood_depth	Blood_VAF	Filter_annotation
+P01	CACNA1G	chr17:4862154	Frameshift_insertion	186	0.167	174	0.000	PASS; rare; damaging
+P02	BSN	chr3:49681234 G>A	Missense	203	0.207	188	0.000	PASS; rare; damaging
+P03	HCFC1	chrX:15326418 G>A	Missense	221	0.158	205	0.000	PASS; rare; damaging
+P04	CACNA1G	chr17:4863271	Frameshift_deletion	214	0.182	201	0.005	PASS; rare; damaging
+P05	LARGE2	chr11:45942315_45942316delAG	Frameshift_deletion	198	0.151	190	0.000	PASS; rare; damaging
+P06	BSN	chr3:49710562 C>T	Missense	176	0.159	193	0.000	PASS; rare; damaging
+P07	LARGE2	chr11:45942315_45942316delAG	Frameshift_deletion	205	0.168	210	0.004	PASS; rare; damaging
+P09	LARGE2	chr11:45942315_45942316delAG	Frameshift_deletion	192	0.142	185	0.000	PASS; rare; damaging

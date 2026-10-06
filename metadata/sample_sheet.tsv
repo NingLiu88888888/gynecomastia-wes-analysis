@@ -1,0 +1,14 @@
+patient_id	breast_id	blood_id	breast_bam	blood_bam
+P01	P01_Breast	P01_Blood	/path/to/P01_Breast.bam	/path/to/P01_Blood.bam
+P02	P02_Breast	P02_Blood	/path/to/P02_Breast.bam	/path/to/P02_Blood.bam
+P03	P03_Breast	P03_Blood	/path/to/P03_Breast.bam	/path/to/P03_Blood.bam
+P04	P04_Breast	P04_Blood	/path/to/P04_Breast.bam	/path/to/P04_Blood.bam
+P05	P05_Breast	P05_Blood	/path/to/P05_Breast.bam	/path/to/P05_Blood.bam
+P06	P06_Breast	P06_Blood	/path/to/P06_Breast.bam	/path/to/P06_Blood.bam
+P07	P07_Breast	P07_Blood	/path/to/P07_Breast.bam	/path/to/P07_Blood.bam
+P08	P08_Breast	P08_Blood	/path/to/P08_Breast.bam	/path/to/P08_Blood.bam
+P09	P09_Breast	P09_Blood	/path/to/P09_Breast.bam	/path/to/P09_Blood.bam
+P10	P10_Breast	P10_Blood	/path/to/P10_Breast.bam	/path/to/P10_Blood.bam
+
+# IMPORTANT: The manuscript QC table uses IDs such as 41A/41-NA through 50A/50-NA,
+# whereas Supplementary Table S1 uses P01-P09. Confirm the true mapping before release.
